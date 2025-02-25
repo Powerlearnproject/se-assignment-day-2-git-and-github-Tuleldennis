@@ -5,7 +5,6 @@
 Version control helps track changes in code, prevents data loss, and makes teamwork smooth. GitHub is super popular because it makes collaboration easy with features like branches, pull requests, and cloud backups. It keeps projects organized, prevents conflicts, and ensures everything runs smoothly.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process? 
-
 Creating a repository on GitHub:
 
 1. Sign in to GitHub and click the "+" icon in the top-right, then select "New repository."  
